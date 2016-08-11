@@ -1,0 +1,6 @@
+// Update CS GO Server
+//
+login rooter@verizon.net
+force_install_dir /home/steam/Steam/csgo-ds/
+app_update 740
+exit
